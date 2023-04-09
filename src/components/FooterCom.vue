@@ -1,7 +1,8 @@
 <template>
   <div id="footer" class="ft">
     <div class="ft-container">
-      <!-- 尾部导航 -->
+    
+      <!-- 尾部导航 啊啊啊啊啊 -->
       <div class="ft-nav">
         <a href="/">首页</a>
         <a href="https://www.bilibili.com/" target="_blank">关于我们</a>
